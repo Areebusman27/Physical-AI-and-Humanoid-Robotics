@@ -30,7 +30,10 @@ const config = {
   organizationName: 'Areebusman27', // TODO: Replace with your GitHub org/user name.
   projectName: 'Physical-AI-and-Humanoid-Robotics', // TODO: Replace with your repo name.
 
-  onBrokenLinks: 'throw',
+    deploymentBranch: "main",
+  onBrokenLinks: 'warn',
+ trailingSlash:false,
+ onBrokenMarkdownLinks:"warn",
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
