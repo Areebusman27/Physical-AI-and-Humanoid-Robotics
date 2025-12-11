@@ -27,7 +27,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Mahad-Usman-15', // TODO: Replace with your GitHub org/user name.
+  organizationName: 'Areebusman27', // TODO: Replace with your GitHub org/user name.
   projectName: 'Physical-AI-and-Humanoid-Robotics', // TODO: Replace with your repo name.
 
   onBrokenLinks: 'throw',
